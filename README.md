@@ -117,13 +117,19 @@ The application consists of several specialized AI agents.
 Users can ask questions such as:
 
 - How many orders were delivered?
-- Which sellers generated the highest revenue?
-- Show top selling product categories.
-- What is the average review score?
-- Compare monthly sales.
-- Which states have the highest number of customers?
-- Show payment type distribution.
-- Which products generate the highest revenue?
+  <img width="1843" height="553" alt="How_many_orders_were_delivered" src="https://github.com/user-attachments/assets/0da3eb05-bc70-47d7-8c6f-16d0c8cf18f4" />
+
+- What are the top 10 product categories based on their sales?
+  <img width="1856" height="827" alt="What_are_the_top_10product_categories_by_sales" src="https://github.com/user-attachments/assets/b6ae2e2a-ddac-40d8-a16c-ca979159b980" />
+
+- Show me the order status distribution
+  <img width="1846" height="805" alt="Show_me_the_order_status_distribution" src="https://github.com/user-attachments/assets/304c3609-0ec0-43e0-ba92-d2fb8188746d" />
+
+- Among delivered orders, what percentage arrived after the estimated delivery date, and how does this change by month?
+  <img width="1826" height="761" alt="Question1_Orderdelivery" src="https://github.com/user-attachments/assets/53d04f61-1cdb-4e71-9aba-235483c65818" />
+
+- What percentage of customers placed more than one order, and what is their average order value compared to one-time customers?
+  <img width="1867" height="770" alt="Question2_CustomerBehaviorAnalysis" src="https://github.com/user-attachments/assets/ef211108-f2d7-4c85-b217-85efa6a3ada1" />
 
 ---
 
