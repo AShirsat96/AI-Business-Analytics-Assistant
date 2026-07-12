@@ -8,8 +8,9 @@
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive_Charts-purple)
 ![License](https://img.shields.io/badge/License-MIT-success)
 
-An intelligent multi-agent AI system that transforms natural language questions into SQL queries, executes them on an e-commerce database, analyzes the results, and automatically generates interactive visualizations using LangGraph, Chainlit, OpenAI, SQLite, and Plotly.
+Most business intelligence pipelines are bottlenecked by the hours it takes analysts to construct SQL scripts and design visualization reports. The **AI Business Analytics Assistant** automates this workflow. Using a LangGraph orchestrator, it translates natural language business questions into highly optimized, validated SQL queries, handles runtime corrections automatically, and generates interactive, hover-ready Plotly charts on the fly. Deployed with a lightweight Chainlit interface, it democratizes access to data across operations, product, and finance desks, deflects simple reporting requests, and provides trace visibility via OpenTelemetry
 
+An intelligent multi-agent AI system that transforms natural language questions into SQL queries, executes them on an e-commerce database, analyzes the results, and automatically generates interactive visualizations using LangGraph, Chainlit, OpenAI, SQLite, and Plotly.
 
 # Value Proposition
 Data analysts and business stakeholders spend hours writing SQL and creating chart visual templates. This system automates the data analysis loop:
