@@ -10,7 +10,12 @@
 
 An intelligent multi-agent AI system that transforms natural language questions into SQL queries, executes them on an e-commerce database, analyzes the results, and automatically generates interactive visualizations using LangGraph, Chainlit, OpenAI, SQLite, and Plotly.
 
----
+
+# Value Proposition
+Data analysts and business stakeholders spend hours writing SQL and creating chart visual templates. This system automates the data analysis loop:
+*   **Conversational Data Access**: Non-technical users query complex databases in plain English.
+*   **Self-Healing Queries**: Catches SQL database syntax execution errors and automatically rewrites queries.
+*   **Dynamic Data Visualizations**: Automatically generates Plotly code to build interactive charts (bar, line, pie) tailored to the query output.
 
 # Overview
 
